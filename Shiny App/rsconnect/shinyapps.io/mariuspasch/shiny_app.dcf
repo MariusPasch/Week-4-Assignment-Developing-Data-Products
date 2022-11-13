@@ -1,0 +1,11 @@
+name: shiny_app
+title:
+username:
+account: mariuspasch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7610589
+bundleId: 6508412
+url: https://mariuspasch.shinyapps.io/shiny_app/
+when: 1668337312.75037
+lastSyncTime: 1668337312.75041
